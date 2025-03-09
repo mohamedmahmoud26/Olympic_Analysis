@@ -1,4 +1,3 @@
-# Olympic_Analysis
 # Olympics Data Analysis
 
 ## Introduction
