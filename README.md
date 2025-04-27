@@ -1,4 +1,4 @@
-# Olympics Data Analysis
+
 
 ## Introduction
 The Olympic Games are the world's largest sporting event, bringing together athletes from different countries for over a century. This project analyzes historical Olympic data to uncover patterns and trends related to athlete participation, medal distribution, and country dominance over the years.
