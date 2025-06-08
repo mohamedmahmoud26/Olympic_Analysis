@@ -71,6 +71,10 @@ This project is developed using Python and relies on the following essential lib
 
 ## Contact
 Gmail: mohamedmahmoud2682003@gmail.com
+
 Whatsapp:+201096433244
+
 Linkedin: https://www.linkedin.com/in/mohamed-mahmoud26/
+
+
 Kaggle: https://www.kaggle.com/mohamedmahmoud111
